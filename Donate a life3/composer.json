@@ -1,0 +1,14 @@
+{
+    "name": "user/ajax_php",
+    "authors": [
+        {
+            "name": "Pedro",
+            "email": "pdanieldeoliveirahoeller@gmail.com"
+        }
+    ],
+    "autoload": {
+    	"psr-4":{
+    		"app\\":"app"
+    	}
+    }
+}

@@ -1,0 +1,1 @@
+nome_do_arquivo:"id;cap;";escolha(1,2,3,4);
